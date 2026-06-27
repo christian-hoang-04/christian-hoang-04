@@ -2,6 +2,8 @@
 
 I'm an AI researcher focused on turning research ideas into working systems quickly.
 
+Research ideas should survive contact with code.
+
 My current interests sit around multimodal models, speech, LLM evaluation, paper tooling, and the practical gap between "this might work" and "here is a working prototype." I like research that is ambitious enough to matter and concrete enough to run.
 
 ## Current Direction
