@@ -1,58 +1,53 @@
 # Hi, I'm Christian Hoang
 
-I'm an AI researcher focused on turning research ideas into working systems quickly.
+> “My purpose is to contribute as much as I can, to humanity.”
 
-Research ideas should survive contact with code.
+I'm an AI researcher and a final-year undergraduate at [FPT University](https://daihoc.fpt.edu.vn/), Viet Nam. I like turning research ideas into working systems quickly—and keeping the ideas honest by making them survive contact with code.
 
-My current interests sit around multimodal models, speech, LLM evaluation, paper tooling, and the practical gap between "this might work" and "here is a working prototype." I like research that is ambitious enough to matter and concrete enough to run.
+My work sits at the intersection of multimodal models, speech, large language models, evaluation, and research tooling. I care about the practical gap between “this might work” and “here is a working prototype.”
 
-## Current Direction
+## Current research interests
 
-- Building taste as an AI researcher: reading, surveying, reproducing, and asking better questions.
-- Shipping faster: turning rough research ideas into small tools, demos, and experiments.
-- Working around speech, multimodal LLMs, document understanding, and research automation.
+- Multimodal and speech models
+- LLM evaluation, model behavior, and reliable benchmarks
+- Machine translation and multilingual data
+- Document understanding and clinical de-identification
+- Research automation, paper tooling, and reproducible experiments
 
-## Selected Work
+## Selected research
 
-- [SilVar](https://github.com/christian-hoang-04/SilVar)  
-  EMNLP 2025 work on reasoning speech instruction with large visual-language models for object localization and text generation. This is the biggest thing I have worked on so far.
+- **[SilVar](https://github.com/Hanhpt23/SilVar)** — EMNLP 2025 research on reasoning speech instruction with large vision-language models for object localization and text generation.
+- **[MultiCulturalRiddle](https://openreview.net/pdf?id=sjdqmzc5B5)** — a multicultural benchmark of riddles spanning 61 cultures and 51 languages, accepted at EMNLP 2026 MRL.
+- **Meddies-PII** — a multilingual synthetic clinical de-identification dataset and model covering seventeen languages and nine PII labels.
+- **[Last Translation Benchmark](https://last-translation-benchmark.vilda.net/)** — human-authored, peer-reviewed examples designed to expose concrete machine-translation failures.
+- **First-token broadcasting** — work on discovering and validating circuits that broadcast information through the first token.
+- **Perturbation robustness** — ongoing work studying how perturbations propagate through model layers and affect decoding.
 
-- [Speech_Tokenizer_Lib](https://github.com/christian-hoang-04/Speech_Tokenizer_Lib)  
-  A reference collection of speech tokenizers that matter for speech model development.
+More details, publications, and project links are available on my [personal website](https://christian-hoang-04.github.io/).
 
-- [AI-Conferences-Journals-Papers](https://github.com/christian-hoang-04/AI-Conferences-Journals-Papers) and [Cannot-Miss-AI-Conferences-Journals](https://github.com/christian-hoang-04/Cannot-Miss-AI-Conferences-Journals)  
-  Tools and notes for staying oriented in the AI research literature.
+## Selected tools and repositories
 
-- [crawl-ref-papers-gg-scholar](https://github.com/christian-hoang-04/crawl-ref-papers-gg-scholar) and [paper-cli](https://github.com/christian-hoang-04/paper-cli)  
-  Research workflow tools for crawling, indexing, downloading, and searching papers.
+- [Speech_Tokenizer_Lib](https://github.com/christian-hoang-04/Speech_Tokenizer_Lib) — a reference collection of speech tokenizers.
+- [AI-Conferences-Journals-Papers](https://github.com/christian-hoang-04/AI-Conferences-Journals-Papers) and [Cannot-Miss-AI-Conferences-Journals](https://github.com/christian-hoang-04/Cannot-Miss-AI-Conferences-Journals) — tools and notes for navigating AI research literature.
+- [crawl-ref-papers-gg-scholar](https://github.com/christian-hoang-04/crawl-ref-papers-gg-scholar) and [paper-cli](https://github.com/christian-hoang-04/paper-cli) — research workflow tools for crawling, indexing, downloading, and searching papers.
+- [from_scratch](https://github.com/christian-hoang-04/from_scratch) — dependency-light implementations of AI ideas for learning how they work.
+- [RAG-basic-system](https://github.com/christian-hoang-04/RAG-basic-system) — a small retrieval-augmented generation system built from concepts toward implementation.
 
-- [from_scratch](https://github.com/christian-hoang-04/from_scratch)  
-  My place for rebuilding AI ideas from scratch, dependency-light, to understand what is really going on.
-
-- [RAG-basic-system](https://github.com/christian-hoang-04/RAG-basic-system)  
-  A small RAG system for practicing the path from concept to implementation.
-
-## How I Work
-
-I use GitHub as a research workshop: some repos are polished, some are experiments, and some are receipts from learning in public. The direction is becoming sharper over time:
+## How I work
 
 1. Find an important research idea.
 2. Understand it deeply enough to reproduce or stress-test it.
 3. Build the smallest useful version.
-4. Keep what compounds; archive what was only a stepping stone.
+4. Keep what compounds and archive what was only a stepping stone.
 
-Tiny prototypes count. So do careful surveys. So does deleting messy stuff when it stops helping.
+I use GitHub as a research workshop: some repositories are polished, some are experiments, and some are receipts from learning in public. Tiny prototypes count. So do careful surveys.
 
-## Also Around Here
+## Find me
 
-- [Youtube-Download](https://github.com/christian-hoang-04/Youtube-Download) - a practical downloader tool.
-- [useful-tools](https://github.com/christian-hoang-04/useful-tools) - local-first tools I use or study.
-- [python-coding-stuff](https://github.com/christian-hoang-04/python-coding-stuff) - Python notes and small utilities.
-- [LaTeX](https://github.com/christian-hoang-04/LaTeX) - my LaTeX workspace.
+- [Personal website](https://christian-hoang-04.github.io/)
+- [Google Scholar](https://scholar.google.com/citations?user=mfm8-PkAAAAJ)
+- [Hugging Face](https://huggingface.co/christian-hoang-04)
+- [X](https://x.com/christhoang04)
+- [Email](mailto:christianhoang04@gmail.com)
 
-## Contact
-
-- GitHub: [christian-hoang-04](https://github.com/christian-hoang-04)
-- Email: christianhoang04@gmail.com
-
-If a repo looks like a lab bench, that is probably because it is one.
+If a repository looks like a lab bench, that is probably because it is one.
